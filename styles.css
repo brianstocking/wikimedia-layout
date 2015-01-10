@@ -36,15 +36,12 @@ header{
 }
 
 .image{
-    width: 20%;
-    height: 25%;
+    width: 135px;
+    height: 20%;
     min-height: 135px;
     min-width: 135px;
-    max-height: 25%;
     float: left;
-    margin: 2%;
-    
-    
+    margin: 5%;
 }
 
 .welcome{
@@ -82,4 +79,6 @@ footer{
 
 .links{
     text-decoration: none;
+    color: blue;
 }
+
