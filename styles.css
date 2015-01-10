@@ -5,8 +5,9 @@
 
 
 html, body{
-    height: 120%;
+    height: 100%;
     width: 100%;
+    margin: 0;
     
 }
 .writing{
@@ -31,46 +32,21 @@ header{
     clear: both;
     width: 90%;
     height: 70%;
-    overflow:auto;
     margin: 4% auto;
 }
 
 .image{
-    width: 25%;
+    width: 20%;
     height: 25%;
-    min-height: 25%;
+    min-height: 135px;
+    min-width: 135px;
     max-height: 25%;
     float: left;
-    margin: 0 auto;
-    text-align: center;
+    margin: 2%;
     
     
 }
 
-.first-row{
-    height: 25%;
-    width: 100%;
-    margin: 0 auto;
-    
-}
-
-.second-row{
-    height: 25%;
-    width: 100%;
-    
-}
-
-.third-row{
-    height: 25%;
-    width: 100%;
-    
-}
-
-.fourth-row{
-    height: 25%;
-    width: 100%;
-    
-}
 .welcome{
     bottom: 0;
     float: right;
@@ -107,4 +83,3 @@ footer{
 .links{
     text-decoration: none;
 }
-   
