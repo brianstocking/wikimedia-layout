@@ -36,12 +36,12 @@ header{
 }
 
 .image{
-    width: 135px;
+    width: 22%;
     height: 20%;
     min-height: 135px;
     min-width: 135px;
     float: left;
-    margin: 5%;
+    margin: 5% auto;
 }
 
 .welcome{
